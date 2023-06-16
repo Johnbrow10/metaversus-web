@@ -28,7 +28,7 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   'Encontre um mundo que combina com você e que você deseje entrar',
-  'Entre no mundo lendo a bíblia para estar seguro',
+  'Entre no mundo lendo as regras para estar seguro',
   'Não há necessidade de rodeios, apenas fique no acelerador e divirta-se',
 ];
 
