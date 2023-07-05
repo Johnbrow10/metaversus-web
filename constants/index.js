@@ -50,7 +50,7 @@ export const newFeatures = [
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'Tlançamento do Metaverso faz tremer Elon Musk',
+    title: 'Lançamento do Metaverso faz tremer Elon Musk',
     subtitle:
         'O Metaverso é um conceito que se refere a um universo virtual compartilhado, onde os usuários podem interagir e realizar atividades em um ambiente digitalizado em 3D',
   },
